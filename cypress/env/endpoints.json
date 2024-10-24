@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://serverest.dev/",
+
+    "login": "login",
+
+    "usuarios": "usuarios",
+
+    "produtos": "produtos",
+
+    "carrinho": "carrinhos"
+}
